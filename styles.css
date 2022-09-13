@@ -1,0 +1,17 @@
+body {
+    background-color: yellow;
+}
+h1 {
+    color:blue;
+    padding-top: 50px;
+    padding-left: 25px;
+}
+
+input {
+    color:black;
+}
+
+button {
+    color:blue;
+
+}
